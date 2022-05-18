@@ -1,0 +1,15 @@
+2022-05-18 11:31:27,982 INFO [root] [__init__.py(<module>:5)] - info
+2022-05-18 11:31:28,015 ERROR [root] [__init__.py(<module>:6)] - error
+2022-05-18 11:31:30,959 INFO [root] [login_param.py(test10_register:62)] - get sms code response={'status': 200, 'description': '短信发送成功'}
+2022-05-18 11:31:31,025 INFO [root] [login_param.py(test10_register:70)] - register response=<bound method Response.json of <Response [200]>>
+2022-05-18 11:31:31,312 INFO [root] [login_param.py(test10_register:62)] - get sms code response={'status': 200, 'description': '短信发送成功'}
+2022-05-18 11:31:31,375 INFO [root] [login_param.py(test10_register:70)] - register response=<bound method Response.json of <Response [200]>>
+2022-05-18 11:31:31,580 INFO [root] [login_param.py(test10_register:62)] - get sms code response={'status': 200, 'description': '短信发送成功'}
+2022-05-18 11:31:31,641 INFO [root] [login_param.py(test10_register:70)] - register response=<bound method Response.json of <Response [200]>>
+2022-05-18 11:31:31,829 INFO [root] [login_param.py(test10_register:62)] - get sms code response={'status': 200, 'description': '短信发送成功'}
+2022-05-18 11:31:31,878 INFO [root] [login_param.py(test10_register:70)] - register response=<bound method Response.json of <Response [200]>>
+2022-05-18 11:31:32,061 INFO [root] [login_param.py(test10_register:62)] - get sms code response={'status': 100, 'description': '图片验证码错误'}
+2022-05-18 11:31:32,230 INFO [root] [login_param.py(test10_register:62)] - get sms code response={'status': 200, 'description': '短信发送成功'}
+2022-05-18 11:31:32,278 INFO [root] [login_param.py(test10_register:70)] - register response=<bound method Response.json of <Response [200]>>
+2022-05-18 11:31:32,439 INFO [root] [login_param.py(test10_register:62)] - get sms code response={'status': 200, 'description': '短信发送成功'}
+2022-05-18 11:31:32,494 INFO [root] [login_param.py(test10_register:70)] - register response=<bound method Response.json of <Response [200]>>

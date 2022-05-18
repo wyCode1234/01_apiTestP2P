@@ -1,0 +1,17 @@
+2022-05-18 14:38:05,419 INFO [root] [__init__.py(<module>:5)] - info
+2022-05-18 14:38:05,420 ERROR [root] [__init__.py(<module>:6)] - error
+2022-05-18 14:39:18,977 INFO [root] [__init__.py(<module>:5)] - info
+2022-05-18 14:39:18,977 ERROR [root] [__init__.py(<module>:6)] - error
+2022-05-18 14:39:19,372 INFO [root] [login_param.py(test10_register:64)] - get sms code response={'status': 200, 'description': '短信发送成功'}
+2022-05-18 14:39:19,396 INFO [root] [login_param.py(test10_register:72)] - register response=<bound method Response.json of <Response [200]>>
+2022-05-18 14:39:19,478 INFO [root] [login_param.py(test10_register:64)] - get sms code response={'status': 200, 'description': '短信发送成功'}
+2022-05-18 14:39:19,498 INFO [root] [login_param.py(test10_register:72)] - register response=<bound method Response.json of <Response [200]>>
+2022-05-18 14:39:19,774 INFO [root] [login_param.py(test10_register:64)] - get sms code response={'status': 200, 'description': '短信发送成功'}
+2022-05-18 14:39:19,791 INFO [root] [login_param.py(test10_register:72)] - register response=<bound method Response.json of <Response [200]>>
+2022-05-18 14:39:19,853 INFO [root] [login_param.py(test10_register:64)] - get sms code response={'status': 200, 'description': '短信发送成功'}
+2022-05-18 14:39:19,868 INFO [root] [login_param.py(test10_register:72)] - register response=<bound method Response.json of <Response [200]>>
+2022-05-18 14:39:19,917 INFO [root] [login_param.py(test10_register:64)] - get sms code response={'status': 100, 'description': '图片验证码错误'}
+2022-05-18 14:39:19,973 INFO [root] [login_param.py(test10_register:64)] - get sms code response={'status': 200, 'description': '短信发送成功'}
+2022-05-18 14:39:19,987 INFO [root] [login_param.py(test10_register:72)] - register response=<bound method Response.json of <Response [200]>>
+2022-05-18 14:39:20,048 INFO [root] [login_param.py(test10_register:64)] - get sms code response={'status': 200, 'description': '短信发送成功'}
+2022-05-18 14:39:20,063 INFO [root] [login_param.py(test10_register:72)] - register response=<bound method Response.json of <Response [200]>>
